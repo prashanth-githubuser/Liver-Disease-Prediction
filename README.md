@@ -5,8 +5,8 @@ Based on the given data set, we need to build best ML model for Liver disease pr
 
 Model Summary
 ---
-Obtained test accuracy for the given data set : 0.998 
-The outperformed ML algorithm : Ensemble Method
+- Obtained test accuracy for the given data set : 0.998 
+- The outperformed ML algorithm : Ensemble Method
 
 Usage Description:
 --
